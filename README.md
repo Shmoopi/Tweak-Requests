@@ -4,15 +4,11 @@ A place to submit your 'iOS' Jailbreak Tweak requests and track fulfilled reques
 
 ## Guidance
 
-Before submitting a Tweak Request, please take a moment and read through the following guidelines:
-
-- [New Requests](#new-requests)
-- [Guidelines](#guidelines)
-- [Developers](#developers)
+Before submitting a Tweak Request, please take a moment and read through the following guidelines
 
 ## New Requests
 
-Open a new [Issue](https://github.com/Shmoopi/Tweak-Requests/issues) with this format:
+Open a new [Issue](https://github.com/Shmoopi/Tweak-Requests/issues/new?assignees=&labels=&template=tweak-request.md&title=%5B14.0%5D+Some+Awesome+Tweak+Idea) with this format:
 
 `[14.0] Some Awesome Tweak`
 
